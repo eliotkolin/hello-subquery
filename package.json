@@ -1,7 +1,7 @@
 {
-  "name": "elenamedve-subquery",
+  "name": "eliotkolin-subquery",
   "version": "1.0.0",
-  "description": "Subquery project by elenamedve",
+  "description": "Subquery project by eliotkolin",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
